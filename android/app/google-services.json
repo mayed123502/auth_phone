@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412542440480",
+    "project_id": "phone-auth-7624a",
+    "storage_bucket": "phone-auth-7624a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412542440480:android:d271b4a9d3bbdabc4c5845",
+        "android_client_info": {
+          "package_name": "com.art4muslim.auth_phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412542440480-ehfio272ucf5a6buj9qf8rr1t9cse8st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.art4muslim.auth_phone",
+            "certificate_hash": "96a60590a8d90baccdcac2e4c134e20ff1363844"
+          }
+        },
+        {
+          "client_id": "412542440480-6nf38t8hjrrmtbjhgvma56f1gv0co1nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLumpHwiLQmV5aQ2aJ_CNYfa8GgQlaBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412542440480-6nf38t8hjrrmtbjhgvma56f1gv0co1nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
